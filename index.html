@@ -10,9 +10,86 @@
   <link rel="stylesheet" href="./assets/style.css">
   <title>Search Filter Project</title>
 </head>
-<body>
 
+<body>
+  <!-- header -->
+  <header>
+    <div class="header-container">
+      <h3 class="header-title">Product Filter</h3>
+      <form>
+        <input type="text" placeholder="search ...." class="search-input">
+        <button>
+          <i class="bi bi-search"></i>
+        </button>
+      </form>
+      <div class="filter-box">
+        <a href="#" class="btn" data-filter="">All</a>
+        <a href="#" class="btn" data-filter="watch">Watch</a>
+        <a href="#" class="btn" data-filter="dress">Clothes</a>
+        <a href="#" class="btn" data-filter="bag">Bag</a>
+        <a href="#" class="btn" data-filter="shoes">Shoes</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- products -->
+
+  <main>
+  <h4>our products</h4>
+    <div class="product-container">
+      <!-- <div class="product">
+        <div class="img-container">
+          <img src="./assets/images/bag-1.jpg" alt="" class="product-img">
+        </div>
+        <div class="product-desc">
+          <p class="product-title">Watch model : 548</p>
+          <p class="product-price">price : $152</p>
+        </div>
+        <button class="add-to-cart">add to cart</button>
+      </div>
+      <div class="product">
+        <div class="img-container">
+          <img src="./assets/images/bag-2.jpg" alt="" class="product-img">
+        </div>
+        <div class="product-desc">
+          <p class="product-title">Watch model : 548</p>
+          <p class="product-price">price : $152</p>
+        </div>
+        <button class="add-to-cart">add to cart</button>
+      </div>
+      <div class="product">
+        <div class="img-container">
+          <img src="./assets/images/dress-1.jpg" alt="" class="product-img">
+        </div>
+        <div class="product-desc">
+          <p class="product-title">Watch model : 548</p>
+          <p class="product-price">price : $152</p>
+        </div>
+        <button class="add-to-cart">add to cart</button>
+      </div>
+      <div class="product">
+        <div class="img-container">
+          <img src="./assets/images/dress-3.jpg" alt="" class="product-img">
+        </div>
+        <div class="product-desc">
+          <p class="product-title">Watch model : 548</p>
+          <p class="product-price">price : $152</p>
+        </div>
+        <button class="add-to-cart">add to cart</button>
+      </div>
+      <div class="product">
+        <div class="img-container">
+          <img src="./assets/images/watch-2.jfif" alt="" class="product-img">
+        </div>
+        <div class="product-desc">
+          <p class="product-title">Watch model : 548</p>
+          <p class="product-price">price : $152</p>
+        </div>
+        <button class="add-to-cart">add to cart</button>
+      </div> -->
+    </div>
+  </main>
 </body>
 <script src="./assets/javascript.js"></script>
-
+<script src="https://unpkg.com/axios@1.1.2/dist/axios.min.js"></script>
 </html>

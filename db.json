@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "dress product",
+      "class": "dress",
+      "price": 10.99,
+      "image": "./assets/images/dress-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "dress product",
+      "class": "dress",
+      "price": 20.79,
+      "image": "./assets/images/dress-2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "dress product",
+      "class": "dress",
+      "price": 55.8,
+      "image": "./assets/images/dress-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "dress product",
+      "class": "dress",
+      "price": 14.55,
+      "image": "./assets/images/dress-4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "watch product",
+      "class": "watch",
+      "price": 18.99,
+      "image": "./assets/images/watch-1.jpg"
+    },
+    {
+      "id": 6,
+      "title": "watch product",
+      "class": "watch",
+      "price": 10.99,
+      "image": "./assets/images/watch-2.jfif"
+    },
+    {
+      "id": 7,
+      "title": "watch product",
+      "class": "watch",
+      "price": 13.99,
+      "image": "./assets/images/watch-3.jpg"
+    },
+    {
+      "id": 8,
+      "title": "watch product",
+      "class": "watch",
+      "price": 10.99,
+      "image": "./assets/images/watch-4.jpg"
+    },
+    {
+      "id": 9,
+      "title": "watch product",
+      "class": "watch",
+      "price": 20.99,
+      "image": "./assets/images/watch-5.jpg"
+    },
+    {
+      "id": 10,
+      "title": "bag product",
+      "class": "bag",
+      "price": 8.99,
+      "image": "./assets/images/bag-1.jpg"
+    },
+    {
+      "id": 11,
+      "title": "bag product",
+      "class": "bag",
+      "price": 5.99,
+      "image": "./assets/images/bag-2.jpg"
+    },
+    {
+      "id": 12,
+      "title": "bag product",
+      "class": "bag",
+      "price": 8.99,
+      "image": "./assets/images/bag-3.jpg"
+    },
+    {
+      "id": 13,
+      "title": "bag product",
+      "class": "bag",
+      "price": 9.99,
+      "image": "./assets/images/bag-4.jfif"
+    },
+    {
+      "id": 13,
+      "title": "bag product",
+      "class": "bag",
+      "price": 9.99,
+      "image": "./assets/images/bag-5.jpg"
+    },
+    {
+      "id": 14,
+      "title": "shoes product",
+      "class": "shoes",
+      "price": 96.99,
+      "image": "./assets/images/shoes-1.jpg"
+    },
+    {
+      "id": 15,
+      "title": "shoes product",
+      "class": "shoes",
+      "price": 71.99,
+      "image": "./assets/images/shoes-2.jfif"
+    },
+    {
+      "id": 16,
+      "title": "shoes product",
+      "class": "shoes",
+      "price": 65.99,
+      "image": "./assets/images/shoes-3.jfif"
+    },
+    {
+      "id": 17,
+      "title": "shoes product",
+      "class": "shoes",
+      "price": 66.99,
+      "image": "./assets/images/shoes-4.jpg"
+    }
+  ]
+}
